@@ -1,0 +1,3 @@
+Piecemeal parts for a destructive weapon to 3D print and use.
+
+Then again, these weapons are more likely to blow you up than your enemies...
